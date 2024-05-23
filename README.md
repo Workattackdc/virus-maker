@@ -1,2 +1,2 @@
-# virus-maker
-Free to use fun virus maker
+# Virus Maker
+This Virus Maker is not harmfull but has some fun features
